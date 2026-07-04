@@ -39,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0319-bulb-switcher) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0015-3sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
