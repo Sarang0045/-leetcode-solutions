@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -58,4 +59,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0061-rotate-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
