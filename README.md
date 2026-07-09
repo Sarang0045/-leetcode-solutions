@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
