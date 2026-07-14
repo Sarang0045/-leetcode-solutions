@@ -47,16 +47,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0015-3sum) |
 | [0322-coin-change](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0455-assign-cookies](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0015-3sum) |
+| [0455-assign-cookies](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
 | ------- |
@@ -76,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Sarang0045/-leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
